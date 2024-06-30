@@ -24,9 +24,9 @@ I'm a master's student at the University of Waterloo. I have a passion for Compu
   </tr>
   <tr>
     <td>
-      <center><img src="Assets/VulkEngine.gif" alt="Vulkan Renderer GIF" style="width:100%;"/>
+      <img src="Assets/VulkEngine.gif" alt="Vulkan Renderer GIF" style="width:100%;"/>
       <br>
-      <b><a href="https://github.com/ZzzhHe/VulkEngine">VulkEngine</a></b><p>Vulkan Simple Renderer</p></center>
+      <center><b><a href="https://github.com/ZzzhHe/VulkEngine">VulkEngine</a></b><p>Vulkan Simple Renderer</p></center>
     </td>
     <td>
       <center>
