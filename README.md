@@ -10,7 +10,7 @@ I'm a master's student at the University of Waterloo. I have a passion for **Com
     <th><strong>Games</strong></th>
   </tr>
   <tr>
-    <td style="text-align: center;">
+    <td style="text-align: center; vertical-align: top;">
       <img src="Assets/ZzRenderer.gif" alt="OpenGL Renderer GIF" style="width:100%;"/>
       <br>
       <b><a href="https://github.com/ZzzhHe/ZzRenderer">ZzRenderer</a></b>
