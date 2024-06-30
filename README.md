@@ -3,14 +3,14 @@
 I'm a master's student at the University of Waterloo. I have a passion for **Computer Graphics** and Real-time Rendering, working on projects in OpenGL/Vulkan to make on-screen visuals more realistic. Additionally, I am exploring **Game Development** by learning Unity, participating in game jams, and implementing mechanics inspired by famous game. 
 
 ## Projects
-
+<p align="center"></p>
 <table>
   <tr>
     <th><strong>Graphics</strong></th>
     <th><strong>Games</strong></th>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: top;">
+    <td style="text-align: center;">
       <img src="Assets/ZzRenderer.gif" alt="OpenGL Renderer GIF" style="width:100%;"/>
       <br>
       <b><a href="https://github.com/ZzzhHe/ZzRenderer">ZzRenderer</a></b>
@@ -47,6 +47,7 @@ I'm a master's student at the University of Waterloo. I have a passion for **Com
     </td>
   </tr>
 </table>
+<p></p>
 
 
 
