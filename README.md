@@ -1,13 +1,59 @@
-## Hi! I'm Zhuohao. 👋
+# Hi! I'm Zhuohao. 👋
 
-I'm a master's student at the University of Waterloo, specializing in Computer Graphics and Real-time Rendering, where I work on projects in OpenGL/Vulkan to make on-screen visuals more realistic. Additionally, I am exploring game development, learning Unity, participating in game jams, and implementing mechanics inspired by famous games.
+I'm a master's student at the University of Waterloo. I have a passion for Computer Graphics and Real-time Rendering, working on projects in OpenGL/Vulkan to make on-screen visuals more realistic. Additionally, I am exploring game development by learning Unity, participating in game jams, and implementing mechanics inspired by famous games.
 
-### Contact
+## Projects
+
+<table>
+  <tr>
+    <th>Graphics</th>
+    <th>Games</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="Assets/ZzRenderer.gif" alt="OpenGL Renderer GIF" style="width:100%;"/>
+      <br>
+      <center><b><a href="https://github.com/ZzzhHe/ZzRenderer">ZzRenderer</a></b>
+      <p>OpenGL PRB Renderer</p></center>
+    </td>
+    <td>
+      <img src="Assets/FloatToSurvive.gif" alt="Float To Survive" style="width:100%;"/>
+      <br>
+      <center><b><a href="https://howhao.itch.io/float-to-survive">Float To Survive</a></b><p>a platform game by Unity</p></center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center><img src="Assets/VulkEngine.gif" alt="Vulkan Renderer GIF" style="width:100%;"/>
+      <br>
+      <b><a href="https://github.com/ZzzhHe/VulkEngine">VulkEngine</a></b><p>Vulkan Simple Renderer</p></center>
+    </td>
+    <td>
+      <!-- <h4><a href="https://github.com/yourusername/mechanics-demo">Mechanics Demo</a></h4> -->
+      <p>🚧 Working in Progress</p>
+      <p>Grass Effect from Ghost of tsushima</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center><img src="Assets/SolarSystem.gif" alt="Solar System GIF" style="width:100%;"/>
+      <br>
+      <b><a href="https://github.com/ZzzhHe/SolarSystem">VulkEngine</a></b><p>OpenGL Animation: Solar Eclipse</p></center>
+    </td>
+    <td>
+      
+    </td>
+  </tr>
+</table>
+
+
+
+## Contact
 
 - **Discord:** @zzzhhe5
 - **Personal Website:** 
 - **Grallery:**
-- 
+
 <p align="center">
   <a href="https://github.com/ZzzhHe">
     <picture>
@@ -19,7 +65,10 @@ I'm a master's student at the University of Waterloo, specializing in Computer G
     <img alt="itch" title="itch" height="48" width="48" src="https://cdn.simpleicons.org/itchdotio"></a>
 </p>
 
+
+---
+
 <p align="center"> 
-  Visitors count<br>
+  <b>Visitors count</b><br>
   <img src="https://profile-counter.glitch.me/ZzzhHe/count.svg" />
 </p>
