@@ -1,6 +1,6 @@
 # Hi! I'm Zhuohao. 👋
 
-I'm a master's student at the University of Waterloo. I have a passion for Computer Graphics and Real-time Rendering, working on projects in OpenGL/Vulkan to make on-screen visuals more realistic. Additionally, I am exploring game development by learning Unity, participating in game jams, and implementing mechanics inspired by famous games.
+I'm a master's student at the University of Waterloo. I have a passion for **Computer Graphics** and Real-time Rendering, working on projects in OpenGL/Vulkan to make on-screen visuals more realistic. Additionally, I am exploring **Game Development** by learning Unity, participating in game jams, and implementing mechanics inspired by famous games.
 
 ## Projects
 
