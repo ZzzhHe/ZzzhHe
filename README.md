@@ -11,15 +11,15 @@ I'm a master's student at the University of Waterloo. I have a passion for Compu
   </tr>
   <tr>
     <td>
-      <img src="Assets/ZzRenderer.gif" alt="OpenGL Renderer GIF" style="width:100%;"/>
+      <center><img src="Assets/ZzRenderer.gif" alt="OpenGL Renderer GIF" style="width:100%;"/>
       <br>
-      <center><b><a href="https://github.com/ZzzhHe/ZzRenderer">ZzRenderer</a></b>
+      <b><a href="https://github.com/ZzzhHe/ZzRenderer">ZzRenderer</a></b>
       <p>OpenGL PRB Renderer</p></center>
     </td>
     <td>
-      <img src="Assets/FloatToSurvive.gif" alt="Float To Survive" style="width:100%;"/>
+      <center><img src="Assets/FloatToSurvive.gif" alt="Float To Survive" style="width:100%;"/>
       <br>
-      <center><b><a href="https://howhao.itch.io/float-to-survive">Float To Survive</a></b><p>a platform game by Unity</p></center>
+      <b><a href="https://howhao.itch.io/float-to-survive">Float To Survive</a></b><p>a platform game by Unity</p></center>
     </td>
   </tr>
   <tr>
@@ -29,9 +29,11 @@ I'm a master's student at the University of Waterloo. I have a passion for Compu
       <b><a href="https://github.com/ZzzhHe/VulkEngine">VulkEngine</a></b><p>Vulkan Simple Renderer</p></center>
     </td>
     <td>
+      <center>
       <!-- <h4><a href="https://github.com/yourusername/mechanics-demo">Mechanics Demo</a></h4> -->
-      <p>🚧 Working in Progress</p>
+      <p>🚧 WIP </p>
       <p>Grass Effect from Ghost of tsushima</p>
+      </center>
     </td>
   </tr>
   <tr>
@@ -41,7 +43,7 @@ I'm a master's student at the University of Waterloo. I have a passion for Compu
       <b><a href="https://github.com/ZzzhHe/SolarSystem">VulkEngine</a></b><p>OpenGL Animation: Solar Eclipse</p></center>
     </td>
     <td>
-      
+      <center>
     </td>
   </tr>
 </table>
@@ -51,8 +53,8 @@ I'm a master's student at the University of Waterloo. I have a passion for Compu
 ## Contact
 
 - **Discord:** @zzzhhe5
-- **Personal Website:** 
-- **Grallery:**
+- **Personal Website:** 🚧 WIP
+- **Grallery:** 🚧 WIP
 
 <p align="center">
   <a href="https://github.com/ZzzhHe">
