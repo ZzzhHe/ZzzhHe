@@ -6,8 +6,8 @@ I'm a master's student at the University of Waterloo. I have a passion for **Com
 
 <table>
   <tr>
-    <th>Graphics</th>
-    <th>Games</th>
+    <th><strong>Graphics</strong></th>
+    <th><strong>Games</strong></th>
   </tr>
   <tr>
     <td>
@@ -40,7 +40,7 @@ I'm a master's student at the University of Waterloo. I have a passion for **Com
     <td>
       <center><img src="Assets/SolarSystem.gif" alt="Solar System GIF" style="width:100%;"/>
       <br>
-      <b><a href="https://github.com/ZzzhHe/SolarSystem">VulkEngine</a></b><p>OpenGL Animation: Solar Eclipse</p></center>
+      <b><a href="https://github.com/ZzzhHe/SolarSystem">Solar Eclipse</a></b><p>OpenGL: Exploring Solar System</p></center>
     </td>
     <td>
       <center>
