@@ -1,6 +1,10 @@
 # Hi! I'm Zhuohao. 👋
 
-I'm a master's student at the University of Waterloo. I have a passion for **Computer Graphics** and Real-time Rendering, working on projects in OpenGL/Vulkan to make on-screen visuals more realistic. Additionally, I am exploring **Game Development** by learning Unity, participating in game jams, and implementing mechanics inspired by famous game. 
+🧑🏻‍💻 I'm a master's student at the University of Waterloo. 
+
+🚀 I have a passion for **Computer Graphics** and Real-time Rendering, working on projects in OpenGL/Vulkan to make on-screen visuals more realistic. 
+
+🕹️ I am exploring **Game Development** by learning Unity, participating in game jams, and implementing mechanics inspired by famous game. 
 
 ## Projects
 
@@ -32,7 +36,7 @@ I'm a master's student at the University of Waterloo. I have a passion for **Com
     </td>
     <td style="text-align: center;">
       <!-- <h4><a href="https://github.com/yourusername/mechanics-demo">Mechanics Demo</a></h4> -->
-      <p>🚧 WIP </p>
+      <p> WIP </p>
       <p>Grass Effect from Ghost of tsushima</p>
     </td>
   </tr>
@@ -43,7 +47,8 @@ I'm a master's student at the University of Waterloo. I have a passion for **Com
       <b><a href="https://github.com/ZzzhHe/SolarSystem">Solar Eclipse</a></b><p>OpenGL: Exploring Solar System</p>
     </td>
     <td style="text-align: center;">
-      <br>
+      More Game Jams <br>
+      Coming Soon
     </td>
   </tr>
 </table>
@@ -52,9 +57,9 @@ I'm a master's student at the University of Waterloo. I have a passion for **Com
 
 ## Contact
 
-- **Discord:** @zzzhhe5
-- **Personal Website:** 🚧 WIP
-- **Grallery:** 🚧 WIP
+- **🎮 Discord:** @zzzhhe5
+- **🌐 Personal Website:** 🚧 WIP
+- **🖼️ Grallery:** 🚧 WIP
 
 <p align="center">
   <a href="https://github.com/ZzzhHe">
