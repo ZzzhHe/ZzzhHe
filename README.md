@@ -35,9 +35,10 @@
       <p>Vulkan Simple Renderer</p>
     </td>
     <td style="text-align: center;">
-      <!-- <h4><a href="https://github.com/yourusername/mechanics-demo">Mechanics Demo</a></h4> -->
-      <p> WIP </p>
-      <p>Grass Effect from Ghost of tsushima</p>
+      <img src="Assets/Grass-Rendering.gif" alt="Grass Rendering GIF" style="width:100%;"/>
+      <br>
+      <b><a href="https://github.com/ZzzhHe/Grass-Rendering">Grass-Rendering</a></b>
+      <p>Simulate the grass effect of Ghost of Tsushima</p>
     </td>
   </tr>
   <tr>
