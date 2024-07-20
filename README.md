@@ -1,6 +1,6 @@
 # Hi! I'm Zhuohao. 👋
 
-🧑🏻‍💻 I'm a master's student at the University of Waterloo. 
+🧑🏻‍💻 I'm currently a master's student at the University of Waterloo, graduating next term.
 
 🚀 I have a passion for **Computer Graphics** and Real-time Rendering, working on projects in OpenGL/Vulkan to make on-screen visuals more realistic. 
 
@@ -59,7 +59,6 @@
 ## Contact
 
 - **🎮 Discord:** @zzzhhe5
-- **🌐 Personal Website:** 🚧 WIP
 - **🖼️ Grallery:** 🚧 WIP
 
 <p align="center">
