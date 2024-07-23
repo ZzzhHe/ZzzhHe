@@ -1,4 +1,4 @@
-# Hi! I'm Zhuohao. 👋
+# Hi! I'm Alex. 👋
 
 🧑🏻‍💻 I'm currently a master's student at the University of Waterloo, graduating next term.
 
