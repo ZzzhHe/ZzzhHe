@@ -10,8 +10,8 @@
 
 <table>
   <tr>
-    <th><strong>Graphics</strong></th>
-    <th><strong>Games</strong></th>
+    <th><strong>Graphics API</strong></th>
+    <th><strong>Unity</strong></th>
   </tr>
   <tr>
     <td style="text-align: center;">
