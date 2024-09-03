@@ -1,16 +1,14 @@
 # Hi! I'm Alex. 👋
 
-🧑🏻‍💻 I'm currently a master's student at the University of Waterloo, graduating next term.
+🧑🏻‍💻 I'm currently a master's student at the University of Waterloo, graduating 2024 fall term.
 
-🚀 I have a passion for **Computer Graphics** and Real-time Rendering, working on projects in OpenGL/Vulkan to make on-screen visuals more realistic. 
-
-🕹️ I am exploring **Game Development** by learning Unity, participating in game jams, and implementing mechanics inspired by famous game. 
+🚀 I have a passion for **Computer Graphics (Real-time Rendering)**, working on projects in OpenGL/Vulkan to make on-screen visuals more realistic. 
 
 ## Projects
 
 <table>
   <tr>
-    <th><strong>Graphics API</strong></th>
+    <th><strong>Graphics</strong></th>
     <th><strong>Unity</strong></th>
   </tr>
   <tr>
