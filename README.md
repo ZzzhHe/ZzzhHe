@@ -19,7 +19,7 @@
       <p>OpenGL PRB Renderer</p>
     </td>
     <td style="text-align: center;">
-      <img src="Assets/SimpleRenderer.gif" alt="Simple Renderer" style="width:100%;"/>
+      <img src="Assets/SimpleRenderer.gif" alt="Simple Renderer" style="width:75%;"/>
       <br>
       <b><a href="https://github.com/Simple-XX/SimpleRenderer/tree/main">SimpleRenderer</a></b>
       <p>Multi-thread Real-time Software Rasterization</p>
