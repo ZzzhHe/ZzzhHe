@@ -8,8 +8,8 @@
 
 <table>
   <tr>
-    <th><strong>Graphics</strong></th>
-    <th><strong>Unity</strong></th>
+    <th><strong>Graphics API</strong></th>
+    <th><strong>Others</strong></th>
   </tr>
   <tr>
     <td style="text-align: center;">
@@ -19,10 +19,10 @@
       <p>OpenGL PRB Renderer</p>
     </td>
     <td style="text-align: center;">
-      <img src="Assets/FloatToSurvive.gif" alt="Float To Survive" style="width:100%;"/>
+      <img src="Assets/SimpleRenderer.gif" alt="Simple Renderer" style="width:100%;"/>
       <br>
-      <b><a href="https://howhao.itch.io/float-to-survive">Float To Survive</a></b>
-      <p>a platform game by Unity</p>
+      <b><a href="https://github.com/Simple-XX/SimpleRenderer/tree/main">SimpleRenderer</a></b>
+      <p>Multi-thread Real-time Software Rasterization</p>
     </td>
   </tr>
   <tr>
