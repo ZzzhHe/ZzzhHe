@@ -1,8 +1,8 @@
 # Hi! I'm Alex. 👋
 
-🧑🏻‍💻 I'm currently a master's student at the University of Waterloo, graduating 2024 fall term.
+🧑🏻‍💻 I'm currently a master's student at the University of Waterloo, graduating Dec 2024.
 
-🚀 I have a passion for **Computer Graphics (Real-time Rendering)**, working on projects in OpenGL/Vulkan to make on-screen visuals more realistic. 
+🚀 As a graphics programmer with a focus on real-time rendering, I specialize in developing high-performance graphics engines using C++, OpenGL, and Vulkan. I am passionate about creating immersive visual experiences and optimizing rendering pipelines for maximum efficiency.
 
 ## Projects
 
