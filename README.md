@@ -64,7 +64,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
-  <a href="https://www.linkedin.com/in/zhuohao-he-5087392a7">
+  <a href="https://www.linkedin.com/in/zhuohao-alex-he-5087392a7">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
   <a href="https://howhao.itch.io/">
     <img alt="itch" title="itch" height="48" width="48" src="https://cdn.simpleicons.org/itchdotio"></a>
