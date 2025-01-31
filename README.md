@@ -1,6 +1,6 @@
 # Hi! I'm Alex. 👋
 
-🎓 Master's student at the University of Waterloo, graduating Dec 2024.
+🎓 Master's student at the University of Waterloo, graduated Dec 2024.
 
 💻 Graphics programmer focused on real-time rendering, coding with C++, OpenGL, and Vulkan API.
 
