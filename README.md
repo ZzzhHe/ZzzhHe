@@ -50,7 +50,7 @@
       <b><a href="https://github.com/ZzzhHe/SolarSystem">Solar Eclipse</a></b><p>OpenGL: Exploring Solar System</p>
     </td>
     <td style="text-align: center;">
-      More Game Jams <br>
+      More Graphics Projects <br>
       Coming Soon
     </td>
   </tr>
