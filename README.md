@@ -60,7 +60,7 @@
 
 ## Contact
 
-- **🎮 Discord:** @zzzhhe5
+- **🎮 Discord:** @alexzhhe
 - **🖼️ Grallery:** 🚧 WIP
 
 <p align="center">
