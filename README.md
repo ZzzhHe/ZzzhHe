@@ -34,7 +34,7 @@
       <img src="Assets/Vulkan-Toybox.png" alt="Vulkan Toybox GIF" style="width:100%;"/>
       <br>
       <b><a href="https://github.com/ZzzhHe/Vulkan-Toybox">Vulkan-Toybox</a></b>
-      <p>Vulkan Simple Renderer</p>
+      <p>Vulkan Rendering Framework</p>
     </td>
     <td style="text-align: center;">
       <img src="Assets/VulkEngine.gif" alt="Vulkan Renderer GIF" style="width:100%;"/>
