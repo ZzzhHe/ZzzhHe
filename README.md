@@ -11,10 +11,10 @@
 ## Projects
 
 <table>
-  <tr>
+<!--   <tr>
     <th><strong>Graphics API</strong></th>
     <th><strong>Others</strong></th>
-  </tr>
+  </tr> -->
   <tr>
     <td style="text-align: center;">
       <img src="Assets/ZzRenderer.gif" alt="OpenGL Renderer GIF" style="width:400px;"/>
