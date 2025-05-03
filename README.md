@@ -4,8 +4,6 @@
 
 💻 Graphics programmer specialized in real-time rendering, building projects with C++, OpenGL, and Vulkan APIs. 
 
-🌟 Experienced in PBR, shader programming, and graphics optimization.
-
 🌍 Fluent in English, Native in Mandarin.
 
 ## Projects
